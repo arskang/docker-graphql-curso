@@ -31,4 +31,4 @@ jobs:
 
     - name: Push Docker image
       run: |
-        docker push arskang/docker-graphql:0.0.2 .
+        docker push arskang/docker-graphql:0.0.2
